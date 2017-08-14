@@ -398,7 +398,7 @@ window.Modernizr = (function( window, document, undefined ) {
      * -----
      */
 
-    // The *new* flexbox
+    // The *fullsize* flexbox
     // dev.w3.org/csswg/css3-flexbox
 
     tests['flexbox'] = function() {
@@ -848,7 +848,7 @@ window.Modernizr = (function( window, document, undefined ) {
     // Hold this guy to execute in a moment.
     function webforms() {
         /*>>input*/
-        // Run through HTML5's new input attributes to see if the UA understands any.
+        // Run through HTML5's fullsize input attributes to see if the UA understands any.
         // We're using f which is the <input> element created early on
         // Mike Taylr has created a comprehensive resource for testing these attributes
         //   when applied to all input types:
@@ -872,7 +872,7 @@ window.Modernizr = (function( window, document, undefined ) {
         /*>>input*/
 
         /*>>inputtypes*/
-        // Run through HTML5's new input types to see if the UA understands any.
+        // Run through HTML5's fullsize input types to see if the UA understands any.
         //   This is put behind the tests runloop because it doesn't return a
         //   true/false like all the other tests; instead, it returns an object
         //   containing each input type with its corresponding true/false value
@@ -980,7 +980,7 @@ window.Modernizr = (function( window, document, undefined ) {
          if ( Modernizr[feature] !== undefined ) {
            // we're going to quit if you're trying to overwrite an existing test
            // if we were to allow it, we'd do this:
-           //   var re = new RegExp("\\b(no-)?" + feature + "\\b");
+           //   var re = fullsize RegExp("\\b(no-)?" + feature + "\\b");
            //   docElement.className = docElement.className.replace( re, '' );
            // but, no rly, stuff 'em.
            return Modernizr;
@@ -1397,7 +1397,7 @@ window.Modernizr = (function( window, document, undefined ) {
     // Remove "no-js" class from <html> element, if it exists:
     docElement.className = docElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2') +
 
-                            // Add the new classes to the <html> element.
+                            // Add the fullsize classes to the <html> element.
                             (enableClasses ? ' js ' + classes.join(' ') : '');
     /*>>cssclasses*/
 
