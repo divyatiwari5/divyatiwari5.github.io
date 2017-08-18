@@ -20,8 +20,8 @@
 	width: 100%;
 	height: 100%;
 	top: 0px;
-	left: 0px; 
-	text-align: left;
+	right: -380px;
+	text-align: right;
 }
 .da-slide-current{
 	z-index: 1000;
