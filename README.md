@@ -59,6 +59,18 @@ permalink: /
 - Developed Sweet2th, a hyperlocal FoodTech delivery startup, and 101Lease, an asset management product.  
 - Designed modular product architectures to serve diverse business needs.  
 
+## **Professional Memberships**  
+
+Member of exclusive engineering communities, recognized for technical excellence through rigorous selection processes:  
+
+- **[Toptal](https://www.toptal.com)** - Top 3% of global tech talent.  
+- **[Turing](https://turing.com/)** - AI-powered platform connecting top developers with high-quality jobs.  
+- **[Gun.io](https://gun.io/)** - Vetted community of elite freelance talent.  
+- **[Andela](https://andela.com/)** - Global marketplace for top-tier remote technical talent.  
+- **[Upstack](https://upstack.co/)** - Exclusive network of the top 1% of tech talent worldwide.  
+
+These memberships validate my technical expertise, strong problem-solving capabilities, and ability to meet the high standards set by global tech leaders.  
+
 ## Community Contributions - Developer Advocacy
 
 ### Andela
