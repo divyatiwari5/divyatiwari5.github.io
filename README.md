@@ -14,9 +14,8 @@ permalink: /
 
 ## Experience
 
-### FOBOH
-**Founding Engineer - Frontend - Consultant**  
-_Remote | 2024 - Present_  
+### [FOBOH](https://foboh.com.au)
+**Founding Engineer - Frontend - Consultant** | Remote | 2024 - Present
 **Technologies**: Typescript, React/Next.js, Redux, Jest, Amplitude, Storybook, Chromatic, Tailwind, Styled Components, AWS Amplify, Auth0  
 
 - Demonstrated strong business acumen and adaptability by collaborating with founders on product design and development during the initial six months, shaping the foundation for scalable solutions.
@@ -26,9 +25,8 @@ _Remote | 2024 - Present_
 - Utilized Chromatic for automated UI testing and version control, ensuring high-quality user interfaces.  
 - Improved development workflow and collaboration through systematic deployment setups.  
 
-### Thrive Market
-**Senior Frontend Engineer - Consultant**
-_Remote | 2022 - 2024_
+### [Thrive Market](https://thrivemarket.com)
+**Senior Frontend Engineer - Consultant** | Remote | 2022 - 2024
 **Technologies**: Typescript, React, Next.js, Redux, Jest, Amplitude, Storybook, Docker, Cypress, Styled Components
 
 - Designed scalable, accessible, cross-browser-compatible experiences; re-architected the UI layer, improving load times by 30%.
@@ -37,9 +35,8 @@ _Remote | 2022 - 2024_
 - Conducted A/B testing, leading to a 20% increase in user engagement and significant sales growth.
 - Enhanced user engagement by understanding customer pain points and delivering intuitive and functional product features.
 
-### Carta Healthcare Inc.
-**Senior Software Engineer - Consultant**  
-_Remote | 2020 - 2022_  
+### [Carta Healthcare Inc.](https://www.carta.healthcare)
+**Senior Software Engineer - Consultant** | Remote | 2020 - 2022
 **Technologies**: React, Typescript, AngularJS, Redux, Jest, Storybook, Tailwind, Docker  
 
 - Built features like the Anesthesia Scorecard Report, improving client reporting efficiency by 50%.  
@@ -47,9 +44,8 @@ _Remote | 2020 - 2022_
 - Established CI/CD processes in Bitbucket, reducing deployment time from 2 hours to 30 minutes.  
 - Improved QA processes and release stability by introducing canary servers and release cycles.  
 
-### Advanced Non-Linear Technologies Limited
-**Lead Software Engineer, Fullstack**  
-_Hybrid | Delhi | 2018 - 2020_  
+### [Advanced Non-Linear Technologies Limited](https://everydayseries.com)
+**Lead Software Engineer, Fullstack** | Hybrid, Delhi | 2018 - 2020
 **Technologies**: React, Angular, Ionic, Redux, Node.js, Android (JAVA), Docker, Cypress, Vercel  
 
 - Led a team of 5, delivering end-to-end product development for Antelligent, Labguide, and Cultyvate.  
@@ -57,8 +53,7 @@ _Hybrid | Delhi | 2018 - 2020_
 - Built RESTful APIs and Android apps, enabling significant cost savings and operational efficiency.  
 
 ### Civil Machines Technologies Private Limited
-**Lead Software Engineer, Frontend**  
-_NOIDA, India | 2016 - 2018_  
+**Lead Software Engineer, Frontend** | NOIDA, India | 2016 - 2018
 **Technologies**: Angular, Android (JAVA)  
 
 - Developed Sweet2th, a hyperlocal FoodTech delivery startup, and 101Lease, an asset management product.  
@@ -71,15 +66,13 @@ _NOIDA, India | 2016 - 2018_
 - Organized multiple tech meetups with the Andela community.  
 
 ### 101Loop
-_Community Mentor (2018 - 2021)_  
+**Community Mentor** | 2018 - 2021
 - Mentored winning teams in Smart India Hackathons (2018 & 2020).  
 
 ## Education
 
-**SRM Institute of Science and Technology**  
-_Bachelor of Technology in Computer Science and Engineering_  
-**First Division with Distinction (CGPA: 8.5/10)**  
-_2014 - 2018_  
+| **[SRM Institute of Science and Technology](https://www.srmist.edu.in/)** | Bachelor of Technology in Computer Science and Engineering | 2014 - 2018 |
+| First Division with Distinction (CGPA: 8.5 / 10) |
 
 ## References and Recommendations from
 - **Alison Grashaw**, Senior Product Manager (Thrive Market)
