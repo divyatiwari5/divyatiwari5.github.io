@@ -4,7 +4,8 @@ permalink: /
 ---
 
 **Let's get in touch**
-📧 [me@divyatiwari.me](mailto:me@divyatiwari.me) | [LinkedIn](https://www.linkedin.com/in/divyatiwari5/) | [GitHub](https://github.com/divyatiwari5) | India  
+
+📧 [me@divyatiwari.me](mailto:me@divyatiwari.me) | [LinkedIn](https://www.linkedin.com/in/divyatiwari5/) | [GitHub](https://github.com/divyatiwari5) | India
 
 ## Summary
 - Senior Software Engineer with 8+ years of experience, specializing in frontend and full-stack development.
@@ -19,6 +20,7 @@ permalink: /
 
 ### [FOBOH](https://foboh.com.au)
 **Founding Engineer - Frontend - Consultant** | Remote | 2024 - Present
+
 **Technologies**: Typescript, React/Next.js, Redux, Jest, Amplitude, Storybook, Chromatic, Tailwind, Styled Components, AWS Amplify, Auth0  
 
 - Demonstrated strong business acumen and adaptability by collaborating with founders on product design and development during the initial six months, shaping the foundation for scalable solutions.
@@ -30,6 +32,7 @@ permalink: /
 
 ### [Thrive Market](https://thrivemarket.com)
 **Senior Frontend Engineer - Consultant** | Remote | 2022 - 2024
+
 **Technologies**: Typescript, React, Next.js, Redux, Jest, Amplitude, Storybook, Docker, Cypress, Styled Components
 
 Thrive Market is an American e-commerce membership-based retailer offering natural and organic food products.
@@ -42,6 +45,7 @@ Thrive Market is an American e-commerce membership-based retailer offering natur
 
 ### [Carta Healthcare Inc.](https://www.carta.healthcare)
 **Senior Software Engineer - Consultant** | Remote | 2020 - 2022
+
 **Technologies**: React, Typescript, AngularJS, Redux, Jest, Storybook, Tailwind, Docker  
 
 Carta Healthcare is a HealthTech startup that provides AI-powered data analytics and FHIR standard-driven data repository solutions.  
@@ -65,6 +69,7 @@ WiseOR, a Carta product, optimizes Operating Room and Cath Lab resource allocati
 
 ### [Advanced Non-Linear Technologies Limited](https://everydayseries.com)
 **Lead Software Engineer, Fullstack** | Hybrid, Delhi | 2018 - 2020
+
 **Technologies**: React, Angular, Ionic, Redux, Node.js, Android (JAVA), Docker, Cypress, Vercel  
 
 - Led a small and highly efficient team of 5 to deliver end-to-end product development for **Antelligent**, **Labguide**, and **Cultyvate**.  
@@ -85,6 +90,7 @@ WiseOR, a Carta product, optimizes Operating Room and Cath Lab resource allocati
 
 ### Civil Machines Technologies Private Limited
 **Lead Software Engineer, Frontend** | NOIDA, India | 2016 - 2018
+
 **Technologies**: Angular, Android (JAVA)  
 
 - Developed Sweet2th, a hyperlocal FoodTech delivery startup, and 101Lease, an asset management product.  
