@@ -19,13 +19,16 @@ permalink: /
 - Actively seeking roles that offer ownership and challenge within high-growth startups tackling globally relevant problems.
 
 ## Skills
-**Languages & Frameworks**: JavaScript, TypeScript, React, Next.js, AngularJS, Angular, Node.js (Express, NestJS), Django, Redux, Tailwind, Styled Components, Storybook, Cypress, Jest, Android (Java), HTML5, CSS, REST APIs, FHIR
+**Frontend**: React, Next.js, AngularJS, Angular, TypeScript, JavaScript, Redux, Ionic, Cypress, Jest, Android (Java)
 
-**Backend & Databases**: Node.js (Express, NestJS), Django, PostgreSQL, Firebase, MQTT, API Design, Microservices Architecture, PDF Generation, Analytics Reporting
+**UI/UX**: HTML5, CSS3, Tailwind CSS, ShadCN, Styled Components, Storybook, Component Design Systems, Accessibility, Web Vitals, A/B Testing, Amplitude, Visual Regression Testing, Experimentation Frameworks, Responsive Web Design, Material Design, Lighthouse, User-Centered Design
 
-**DevOps & Tools**: Docker, GitHub Actions, Bitbucket Pipelines, Jenkins, Azure Bicep, AWS Amplify, Auth0, Vercel, Chromatic, Jira, JQL, Git, Amplitude, Lerna, NX, CI Optimization, Canary Deployments, Release Management
+**Backend & Databases**: Node.js (Express, NestJS), Django, REST API Design, PostgreSQL, Firebase, FHIR, Microservices Architecture, MQTT, PDF Generation, Analytics Reporting
 
-**Practices & Methodologies**: CI/CD, Lean Development, Agile/Scrum, Servant Leadership, TDD, A/B Testing, Accessibility, Web Vitals, Code Quality Automation, Component-driven Development, Mobile-first Design, Performance Optimization, End-to-End Testing, Experimentation Frameworks, Visual Regression Testing, Product Leadership, Team Mentorship
+**DevOps & Tools**: GitHub Actions, Bitbucket Pipelines, Jenkins, Docker, Azure Bicep, AWS Amplify, Auth0, Vercel, Chromatic, Git, JIRA, Jira Query Language (JQL), CI Optimization, Canary Deployments, Release Management, Monorepo (Lerna, NX)
+
+**Practices & Methodologies**: CI/CD, Agile/Scrum, Lean Development, Servant Leadership, Test-Driven Development (TDD), Code Quality Automation, End-to-End Testing, QA Strategy, Team Mentorship, Product Leadership
+
 
 ## Experience
 
