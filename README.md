@@ -3,6 +3,8 @@ layout: home
 permalink: /
 ---
 
+**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20CV.pdf)**
+
 **Let's get in touch**
 
 📧 [me@divyatiwari.me](mailto:me@divyatiwari.me) | [LinkedIn](https://www.linkedin.com/in/divyatiwari5/) | [GitHub](https://github.com/divyatiwari5) | India
@@ -130,3 +132,5 @@ These memberships validate my technical expertise, strong problem-solving capabi
 - **Rohit Narayan**, Tech Lead (Advanced Non-Linear Technologies)
 - **Gaurav Gandhi**, Director & Founder (Advanced Non-Linear Technologies)
 - **Samar Vijay**, Author (A Tryst with Money) and Director (Civil Machines Technologies Private Limited)
+
+**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20CV.pdf)**
