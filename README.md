@@ -3,80 +3,85 @@ layout: home
 permalink: /
 ---
 
-**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20CV.pdf)**
+**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/master/Divya%20Tiwari%20-%20CV.pdf)**
 
 **Let's get in touch**
 
 📧 [me@divyatiwari.me](mailto:me@divyatiwari.me) | [LinkedIn](https://www.linkedin.com/in/divyatiwari5/) | [GitHub](https://github.com/divyatiwari5) | India
 
 ## Summary
-- Senior Software Engineer with 8+ years of experience, specializing in frontend and full-stack development.
-- Extensive experience in early- to mid-stage startups, contributing to scalable product designs and rapid growth.
-- Seeking opportunities to work on globally impactful products within aggressive growth-stage startups.
-- Passionate about collaborating across product, design, and engineering functions, enabling user-driven development and impactful solutions.
-- Strong advocate of servant leadership, aiming to lead engineering teams by fostering growth, mentorship, and collaboration.
-- Interested in roles that provide exposure to key stakeholder management and cross-functional operations.
-- Committed to working as a Product Engineer, blending product vision with engineering excellence to drive innovation and success.
+- Senior Software Engineer with 8+ years of experience driving impactful product development across early and growth-stage startups.
+- Proven ability to deliver scalable frontend and full-stack solutions using modern technologies like React, Typescript, Next.js, Angular, Node.js, Django, PostgreSQL, Docker, and CI/CD pipelines.
+- Successfully shipped mission-critical features with 0 production bugs at Thrive Market, reduced deployment time by 75% at Carta, and bootstrapped component libraries and workflows for FOBOH.
+- Built and maintained modern CI/CD workflows using GitHub Actions, Bitbucket Pipelines, and Azure Bicep templates across multi-cloud environments.
+- Strong collaborator across engineering, product, and design, known for building robust development pipelines, enabling faster delivery, and mentoring team members through peer reviews and pairing sessions.
+- Advocate of servant leadership, lean/agile development, continuous learning, and empowering teams to own and drive their product outcomes.
+- Actively seeking roles that offer ownership and challenge within high-growth startups tackling globally relevant problems.
+
+## Skills
+**Languages & Frameworks**: JavaScript, TypeScript, React, Next.js, AngularJS, Angular, Node.js (Express, NestJS), Django, Redux, Tailwind, Styled Components, Storybook, Cypress, Jest, Android (Java), HTML5, CSS, REST APIs, FHIR
+
+**Backend & Databases**: Node.js (Express, NestJS), Django, PostgreSQL, Firebase, MQTT, API Design, Microservices Architecture, PDF Generation, Analytics Reporting
+
+**DevOps & Tools**: Docker, GitHub Actions, Bitbucket Pipelines, Jenkins, Azure Bicep, AWS Amplify, Auth0, Vercel, Chromatic, Jira, JQL, Git, Amplitude, Lerna, NX, CI Optimization, Canary Deployments, Release Management
+
+**Practices & Methodologies**: CI/CD, Lean Development, Agile/Scrum, Servant Leadership, TDD, A/B Testing, Accessibility, Web Vitals, Code Quality Automation, Component-driven Development, Mobile-first Design, Performance Optimization, End-to-End Testing, Experimentation Frameworks, Visual Regression Testing, Product Leadership, Team Mentorship
 
 ## Experience
 
 ### [FOBOH](https://foboh.com.au)
 **Founding Engineer - Frontend - Consultant** | Remote | 2024 - Present
 
-**Technologies**: Typescript, React/Next.js, Redux, Jest, Amplitude, Storybook, Chromatic, Tailwind, Styled Components, AWS Amplify, Auth0  
+**Skills**: Typescript, React, Next.js, Redux, Tailwind, Monorepo, Styled Components, Storybook, Chromatic, AWS Amplify, Auth0, Amplitude, Jest, GitHub Actions, JIRA, Lerna, NX, Component-driven Development, Visual Regression Testing, CI Optimization
 
-- Demonstrated strong business acumen and adaptability by collaborating with founders on product design and development during the initial six months, shaping the foundation for scalable solutions.
-- Laid the groundwork for the entire front-end project, ensuring scalability and maintainability.  
-- Configured a seamless deployment pipeline using AWS Amplify, enabling automatic preview links for faster feedback and iteration.  
-- Set up Storybook for component documentation and visual testing, improving development speed and consistency.  
-- Utilized Chromatic for automated UI testing and version control, ensuring high-quality user interfaces.  
-- Improved development workflow and collaboration through systematic deployment setups.  
+- Being the first Software Engineer in the team, collaborated directly with founders to define and implement the product’s initial frontend architecture using Next.js within a monorepo setup, enabling modular scalability and maintainability across teams and services.
+- Configured deployment pipelines using GitHub Actions and AWS Amplify, supporting preview environments, automated tests, and seamless CI/CD workflows optimized for monorepo builds.
+- Set up Storybook and integrated Chromatic for design system documentation and visual regression testing, greatly enhancing developer collaboration, UI consistency, and team velocity.
+- Integrated Auth0 for secure authentication and Amplitude for product analytics, empowering data-driven design decisions. 
 
 ### [Thrive Market](https://thrivemarket.com)
 **Senior Frontend Engineer - Consultant** | Remote | 2022 - 2024
 
-**Technologies**: Typescript, React, Next.js, Redux, Jest, Amplitude, Storybook, Docker, Cypress, Styled Components
+**Skills**: Typescript, React, Next.js, Redux, Cypress, Jest, Styled Components, Storybook, Docker, Amplitude, GitHub Actions, Jenkins, JIRA, Performance Optimization, Accessibility, Experimentation Frameworks, Web Vitals, Responsive Web Design, Lighthouse
 
 Thrive Market is an American e-commerce membership-based retailer offering natural and organic food products.
 
-- Designed scalable, accessible, cross-browser-compatible experiences; re-architected the UI layer, improving load times by 30%.
-- Delivered **vNext**, tiered pricing, Buy It Again, and Fresh features with 100% stability and fewer than 5 QA bugs; achieved 0 post-go-live bugs in the first quarter.
-- Introduced code coverage in CI/CD, raising unit test coverage from 20% to 85%.
-- Conducted A/B testing, leading to a 20% increase in user engagement and significant sales growth.
-- Enhanced user engagement by understanding customer pain points and delivering intuitive and functional product features.
+- The product was facing cross-browser compatibility issues and slow load times. Re-architected the UI layer to deliver cross-browser compatibility and accessibility, improving load times by 30%.
+- Delivered major features like **tiered pricing**, **vNext**, **Fresh**, and **Buy it Again** with high stability, resulting in zero post-launch bugs in Q1.
+- The codebase had frequent QA issues and regressions. Introduced code coverage in CI/CD pipelines on GitHub Actions and Jenkins, increasing unit test coverage from 20% to 85%, and reducing bugs by 37%.
+- Streamlined A/B testing pipelines on Amplitude and introduced data-driven iterations that boosted engagement by 20% and led to measurable conversion growth.
+- Advocated for design consistency and reusability by contributing to shared UI libraries using Storybook.
 
 ### [Carta Healthcare Inc.](https://www.carta.healthcare)
 **Senior Software Engineer - Consultant** | Remote | 2020 - 2022
 
-**Technologies**: React, Typescript, AngularJS, Redux, Jest, Storybook, Tailwind, Docker  
+**Skills**: React, AngularJS, Typescript, Redux, Tailwind, Docker, Jest, Storybook, Amplitude, A/B Testing, BitBucket Pipelines, CI/CD, Canary Deployment Strategy, FHIR, CathPCI, JIRA, Product Leadership, PDF Generation, Analytics Reporting, Release Management, Code Quality Automation
 
 Carta Healthcare is a HealthTech startup that provides AI-powered data analytics and FHIR standard-driven data repository solutions.  
 
 #### **WiseOR**  
 WiseOR, a Carta product, optimizes Operating Room and Cath Lab resource allocation through prescriptive analytics, including block optimization, robot access, staff coverage, and contribution margins.  
-- Led frontend initiatives individually using Angular and React technology.  
-- Built the Anesthesia Scorecard Report feature in a time-critical environment, improving client reporting efficiency.  
-- Enhanced scalability by integrating React into a previously Angular-only project, delivering the Scorecard feature and scaling to a 200+ page report, improving client delivery speed by 50%.  
+- Led frontend development for the Scorecard Report module, improving client reporting efficiency in a high-pressure delivery window.
+- Integrated React into a legacy AngularJS codebase to scale product capabilities, enabling support for over 200 report pages and reducing client delivery timelines by 50%.
 
 #### **Atlas/Compass**  
-- Implemented CI/CD processes in Bitbucket, reducing deployment time from 2 hours to 30 minutes through automation and increasing deployment frequency to nightly instead of daily.  
-- Established a Canary server and release cycle for better QA testing, reducing regression issues by 30% and improving overall release stability.  
-- Built features for certification from NCDR for CathPCI and Afib Registry, achieving certification 1 Sprint (2 weeks) ahead of schedule.  
+- Automated CI/CD via Bitbucket pipelines, slashing deployment time from 2 hours to 30 minutes.
+- Established a canary release strategy, cutting regression bugs by 30% and improving release confidence and nightly release frequency.
+- Built features for certification from NCDR for CathPCI and Afib Registry, achieving certification ahead of schedule.  
 
 #### **Company-wide Process Changes**  
-- Introduced the A/B testing approach for analyzing different product features.  
-- Proactively suggested and implemented product enhancements based on Amplitude reports, resulting in improved user satisfaction (Source: customer interviews).  
-- Advocated and introduced a coverage diff pipeline in the CI/CD process, increasing unit-test code coverage by 35% (47% to 64%) and reducing bugs by 75% (based on JIRA analysis).  
-- Temporarily led the QA team to establish a better QA process for the Product and Engineering team.  
+- Temporarily led QA process improvement efforts and championed QA automation, implementing workflows that raised team velocity and reduced release friction.
+- Implemented coverage diff tooling in Bitbucket CI Pipelines, increasing code coverage by 35% and reducing QA backlog by 75% (based on JIRA analysis).
+- Advocated product enhancements based on user insights and analytics, leveraging Amplitude data, directly improving customer satisfaction (Source: customer interviews).
 
 ### [Advanced Non-Linear Technologies Limited](https://everydayseries.com)
 **Lead Software Engineer, Fullstack** | Hybrid, Delhi | 2018 - 2020
 
-**Technologies**: React, Angular, Ionic, Redux, Node.js, Android (JAVA), Docker, Cypress, Vercel  
+**Skills**: React, Angular, Ionic, Node.js, Redux, Android (Java), Docker, Cypress, Vercel, CI/CD, Jenkins, Product Leadership, Team Leadership, REST API Design, Microservices Architecture, Mobile App Development, IoT Integration, MQTT, Agile Delivery, End-to-End Testing
 
-- Led a small and highly efficient team of 5 to deliver end-to-end product development for **Antelligent**, **Labguide**, and **Cultyvate**.  
-- Implemented microservice architecture by isolating app functionalities into multiple modules, increasing release frequency in production and reducing system-wide downtime.  
-- Designed and built RESTful APIs for multiple products, including Antelligent, Labguide, and Cultyvate.  
+- Led the engineering team for multiple products: **Antelligent**, **Labguide**, and **Cultyvate**, owning full-stack delivery from frontend to backend APIs and deployment.
+- Modularized app architecture using microservices, increasing production release frequency, and enabling isolated updates without full system downtime.
+- Built REST APIs and mobile/web apps for agri-tech, education, and IoT use cases using modern JS frameworks and containerized infra.
 - Advocated for and developed CI/CD processes, introducing unit tests for multiple products to improve quality and reliability.  
 
 #### **Antelligent**  
@@ -84,7 +89,7 @@ WiseOR, a Carta product, optimizes Operating Room and Cath Lab resource allocati
 
 #### **Labguide**  
 - A digital guide to help participants navigate Innovation Lab events.  
-- Achieved significant savings in operating costs by enabling digital operations, reducing physical printing requirements, and lowering dependency on manual processes.  
+- Designed digital logistics tooling for large-scale innovation events; reduced manual ops dependency and eliminated physical print requirements.
 
 #### **Cultyvate**  
 - An IoT-powered farming solution that delivers high-quality crop outputs and focuses on smart irrigation.  
@@ -93,10 +98,10 @@ WiseOR, a Carta product, optimizes Operating Room and Cath Lab resource allocati
 ### Civil Machines Technologies Private Limited
 **Lead Software Engineer, Frontend** | NOIDA, India | 2016 - 2018
 
-**Technologies**: Angular, Android (JAVA)  
+**Technologies**: Angular, Android (JAVA), Material Design, REST APIs, MVVM Architecture, Firebase, Mobile-first Design
 
-- Developed Sweet2th, a hyperlocal FoodTech delivery startup, and 101Lease, an asset management product.  
-- Designed modular product architectures to serve diverse business needs.  
+- Led frontend efforts for Sweet2th (FoodTech platform) and 101Lease (asset management tool) in fast-paced startup environments.
+- Designed robust, modular UI layers and implemented mobile-first strategies for web and Android platforms.
 
 ## **Professional Memberships**  
 
@@ -133,4 +138,4 @@ These memberships validate my technical expertise, strong problem-solving capabi
 - **Gaurav Gandhi**, Director & Founder (Advanced Non-Linear Technologies)
 - **Samar Vijay**, Author (A Tryst with Money) and Director (Civil Machines Technologies Private Limited)
 
-**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/blob/master/Divya%20Tiwari%20-%20CV.pdf)**
+**[Download One-Pager Resume PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/master/Divya%20Tiwari%20-%20Resume.pdf)** | **[Download CV PDF](https://raw.githubusercontent.com/divyatiwari5/divyatiwari5.github.io/master/Divya%20Tiwari%20-%20CV.pdf)**
